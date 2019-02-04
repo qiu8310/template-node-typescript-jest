@@ -1,0 +1,11 @@
+src
+vendor
+coverage
+__tests__
+.vscode
+
+tsconfig.json
+tslint.json
+
+dist/**/*.d.ts
+dist/**/*.js.map
